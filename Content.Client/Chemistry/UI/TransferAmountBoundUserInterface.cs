@@ -1,7 +1,6 @@
 using Content.Shared.Chemistry;
 using Content.Shared.FixedPoint;
 using JetBrains.Annotations;
-using Robust.Client.GameObjects;
 
 namespace Content.Client.Chemistry.UI
 {

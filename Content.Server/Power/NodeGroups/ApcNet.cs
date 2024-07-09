@@ -2,7 +2,6 @@ using System.Linq;
 using Content.Server.NodeContainer.NodeGroups;
 using Content.Server.NodeContainer.Nodes;
 using Content.Server.Power.Components;
-using Content.Server.Power.EntitySystems;
 using JetBrains.Annotations;
 
 namespace Content.Server.Power.NodeGroups

@@ -1,4 +1,3 @@
-using System;
 using System.Numerics;
 using Content.Client.Stylesheets;
 using Content.Shared.Administration;
@@ -10,9 +9,6 @@ using Robust.Client.UserInterface.Controls;
 using Robust.Client.UserInterface.CustomControls;
 using Robust.Client.UserInterface.XAML;
 using Robust.Shared.Console;
-using Robust.Shared.IoC;
-using Robust.Shared.Localization;
-using Robust.Shared.Maths;
 using Robust.Shared.Network;
 using Robust.Shared.Timing;
 

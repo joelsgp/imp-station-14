@@ -1,5 +1,4 @@
-﻿using System.Threading;
-using Robust.Shared.GameStates;
+﻿using Robust.Shared.GameStates;
 
 namespace Content.Shared.Ensnaring.Components;
 /// <summary>

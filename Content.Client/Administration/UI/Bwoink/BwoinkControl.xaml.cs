@@ -12,7 +12,6 @@ using Robust.Client.UserInterface.Controls;
 using Robust.Client.UserInterface.XAML;
 using Robust.Shared.Network;
 using Robust.Shared.Utility;
-using Robust.Shared.Timing;
 using Robust.Shared.Configuration;
 
 namespace Content.Client.Administration.UI.Bwoink

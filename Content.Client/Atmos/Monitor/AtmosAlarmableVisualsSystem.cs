@@ -1,12 +1,7 @@
-using System.Collections.Generic;
 using Content.Shared.Atmos.Monitor;
 using Content.Shared.Power;
 using Robust.Client.GameObjects;
 using Robust.Client.Graphics;
-using Robust.Shared.GameObjects;
-using Robust.Shared.IoC;
-using Robust.Shared.Maths;
-using Robust.Shared.Serialization.Manager.Attributes;
 
 namespace Content.Client.Atmos.Monitor;
 

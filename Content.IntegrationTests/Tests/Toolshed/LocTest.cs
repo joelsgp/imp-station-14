@@ -1,7 +1,4 @@
 ﻿using System.Collections.Generic;
-using System.Globalization;
-using Robust.Shared.IoC;
-using Robust.Shared.Localization;
 using Robust.Shared.Toolshed;
 
 namespace Content.IntegrationTests.Tests.Toolshed;

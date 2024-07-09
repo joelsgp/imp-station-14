@@ -8,7 +8,6 @@ using Content.Shared.Construction.Components;
 using Content.Shared.Destructible;
 using Content.Shared.Popups;
 using JetBrains.Annotations;
-using Robust.Shared.Player;
 
 namespace Content.Server.Atmos.Piping.EntitySystems
 {

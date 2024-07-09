@@ -1,4 +1,3 @@
-using Content.Server.GameTicking.Rules.Components;
 using Content.Server.Resist;
 using Content.Server.Station.Components;
 using Content.Server.StationEvents.Components;

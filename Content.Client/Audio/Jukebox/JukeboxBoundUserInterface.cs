@@ -1,8 +1,6 @@
 using Content.Shared.Audio.Jukebox;
 using Robust.Client.Audio;
-using Robust.Client.Player;
 using Robust.Shared.Audio.Components;
-using Robust.Shared.Player;
 using Robust.Shared.Prototypes;
 
 namespace Content.Client.Audio.Jukebox;

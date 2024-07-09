@@ -1,5 +1,4 @@
 using Content.Shared.Extinguisher;
-using Robust.Shared.GameStates;
 
 namespace Content.Server.Extinguisher;
 

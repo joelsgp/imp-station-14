@@ -1,5 +1,4 @@
-﻿using System.Linq;
-using Content.Server.Audio;
+﻿using Content.Server.Audio;
 using Content.Server.Chemistry.Containers.EntitySystems;
 using Content.Server.Fluids.EntitySystems;
 using Content.Server.Materials;

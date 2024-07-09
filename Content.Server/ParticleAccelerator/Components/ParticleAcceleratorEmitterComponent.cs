@@ -1,6 +1,4 @@
-﻿using Content.Shared.Singularity.Components;
-
-namespace Content.Server.ParticleAccelerator.Components;
+﻿namespace Content.Server.ParticleAccelerator.Components;
 
 [RegisterComponent]
 public sealed partial class ParticleAcceleratorEmitterComponent : Component

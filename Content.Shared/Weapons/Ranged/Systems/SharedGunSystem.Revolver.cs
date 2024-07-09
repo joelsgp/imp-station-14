@@ -6,7 +6,6 @@ using Robust.Shared.Containers;
 using Robust.Shared.GameStates;
 using Robust.Shared.Serialization;
 using Robust.Shared.Utility;
-using System;
 using System.Linq;
 using Content.Shared.Interaction.Events;
 using JetBrains.Annotations;

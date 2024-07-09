@@ -1,6 +1,5 @@
 using Content.Shared.Gravity;
 using JetBrains.Annotations;
-using Robust.Client.GameObjects;
 
 namespace Content.Client.Gravity.UI
 {

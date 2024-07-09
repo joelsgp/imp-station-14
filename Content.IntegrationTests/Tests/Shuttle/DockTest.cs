@@ -1,5 +1,4 @@
 using System.Collections.Generic;
-using System.Linq;
 using System.Numerics;
 using Content.Server.Shuttles.Systems;
 using Content.Tests;

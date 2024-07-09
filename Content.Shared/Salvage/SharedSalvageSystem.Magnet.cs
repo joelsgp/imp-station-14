@@ -2,7 +2,6 @@ using Content.Shared.Procedural;
 using Content.Shared.Procedural.PostGeneration;
 using Content.Shared.Random.Helpers;
 using Content.Shared.Salvage.Magnet;
-using Content.Shared.Store;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Utility;
 

@@ -1,11 +1,9 @@
 using Content.Server.Construction.Components;
-using Content.Server.Containers;
 using Content.Shared.Construction;
 using Content.Shared.Construction.Prototypes;
 using Content.Shared.Construction.Steps;
 using Content.Shared.Containers;
 using Content.Shared.Database;
-using Robust.Server.Containers;
 using Robust.Shared.Containers;
 using Robust.Shared.Prototypes;
 using System.Linq;
@@ -304,8 +302,8 @@ namespace Content.Server.Construction
                 return null;
 
             // [Optional] Exit if the new entity's prototype is a parent of the original
-            // E.g., if an entity with the 'AirlockCommand' prototype was to be replaced with a new entity that 
-            // had the 'Airlock' prototype, and DoNotReplaceInheritingEntities was true, the code block would 
+            // E.g., if an entity with the 'AirlockCommand' prototype was to be replaced with a new entity that
+            // had the 'Airlock' prototype, and DoNotReplaceInheritingEntities was true, the code block would
             // exit here because 'AirlockCommand' is derived from 'Airlock'
             if (GetCurrentNode(uid, construction)?.DoNotReplaceInheritingEntities == true &&
                 metaData.EntityPrototype?.ID != null)

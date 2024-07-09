@@ -8,7 +8,6 @@ using Content.Shared.Hands.EntitySystems;
 using Content.Shared.Inventory;
 using Content.Shared.NameIdentifier;
 using Content.Shared.PDA;
-using Content.Shared.Silicons.Borgs.Components;
 using Content.Shared.StationRecords;
 using Robust.Shared.Containers;
 using Robust.Shared.GameStates;

@@ -1,4 +1,3 @@
-using Content.Shared.Procedural.PostGeneration;
 using Robust.Shared.Prototypes;
 
 namespace Content.Shared.Procedural;

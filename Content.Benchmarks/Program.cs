@@ -1,15 +1,10 @@
 ﻿using System;
-using System.Linq;
-using System.Threading.Tasks;
 using BenchmarkDotNet.Running;
-using Content.IntegrationTests;
-using Content.Server.Maps;
 #if DEBUG
 using BenchmarkDotNet.Configs;
 #else
 using Robust.Benchmarks.Configs;
 #endif
-using Robust.Shared.Prototypes;
 
 namespace Content.Benchmarks
 {

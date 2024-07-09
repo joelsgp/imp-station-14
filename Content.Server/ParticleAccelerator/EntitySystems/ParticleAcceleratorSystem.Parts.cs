@@ -1,10 +1,8 @@
 using System.Diagnostics.CodeAnalysis;
-using System.Numerics;
 using Content.Server.ParticleAccelerator.Components;
 using JetBrains.Annotations;
 using Robust.Shared.Map.Components;
 using Robust.Shared.Physics.Events;
-using Robust.Shared.Player;
 
 namespace Content.Server.ParticleAccelerator.EntitySystems;
 

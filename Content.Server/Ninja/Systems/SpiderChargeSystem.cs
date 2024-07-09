@@ -1,13 +1,10 @@
 using Content.Server.Explosion.EntitySystems;
-using Content.Server.GameTicking.Rules.Components;
 using Content.Server.Mind;
 using Content.Server.Objectives.Components;
 using Content.Server.Popups;
 using Content.Server.Roles;
 using Content.Server.Sticky.Events;
-using Content.Shared.Interaction;
 using Content.Shared.Ninja.Components;
-using Robust.Shared.GameObjects;
 
 namespace Content.Server.Ninja.Systems;
 

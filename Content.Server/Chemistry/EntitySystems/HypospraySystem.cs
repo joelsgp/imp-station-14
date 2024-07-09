@@ -14,8 +14,6 @@ using Content.Shared.Weapons.Melee.Events;
 using Content.Server.Interaction;
 using Content.Server.Body.Components;
 using Content.Server.Chemistry.Containers.EntitySystems;
-using Robust.Shared.GameStates;
-using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using Robust.Server.Audio;
 

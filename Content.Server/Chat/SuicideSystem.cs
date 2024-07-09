@@ -1,5 +1,4 @@
 using Content.Server.Administration.Logs;
-using Content.Server.Popups;
 using Content.Shared.Damage;
 using Content.Shared.Damage.Prototypes;
 using Content.Shared.Database;

@@ -1,6 +1,5 @@
 using Content.Shared.Containers.ItemSlots;
 using Content.Shared.Kitchen;
-using Robust.Client.GameObjects;
 using Robust.Client.UserInterface.Controls;
 using Robust.Shared.Prototypes;
 

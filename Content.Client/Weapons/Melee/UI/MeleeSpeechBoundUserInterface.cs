@@ -1,4 +1,3 @@
-using Robust.Client.GameObjects;
 using Content.Shared.Speech.Components;
 
 namespace Content.Client.Weapons.Melee.UI;

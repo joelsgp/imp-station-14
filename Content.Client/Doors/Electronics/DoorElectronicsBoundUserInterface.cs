@@ -1,6 +1,5 @@
 using Content.Shared.Access;
 using Content.Shared.Doors.Electronics;
-using Robust.Client.GameObjects;
 using Robust.Shared.Prototypes;
 
 namespace Content.Client.Doors.Electronics;

@@ -1,5 +1,3 @@
-using Robust.Client.GameObjects;
-
 namespace Content.Client.Pinpointer.UI;
 
 public sealed class StationMapBoundUserInterface : BoundUserInterface

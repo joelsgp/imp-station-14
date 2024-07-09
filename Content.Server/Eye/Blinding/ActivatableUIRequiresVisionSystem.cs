@@ -1,9 +1,7 @@
-using Content.Shared.Eye.Blinding;
 using Content.Shared.UserInterface;
 using Content.Server.Popups;
 using Content.Shared.Eye.Blinding.Components;
 using Content.Shared.Eye.Blinding.Systems;
-using Robust.Shared.Player;
 using Robust.Server.GameObjects;
 using Robust.Shared.Collections;
 

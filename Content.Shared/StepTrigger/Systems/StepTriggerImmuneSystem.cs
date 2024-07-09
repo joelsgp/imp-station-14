@@ -1,7 +1,6 @@
 ﻿using Content.Shared.Examine;
 using Content.Shared.Inventory;
 using Content.Shared.StepTrigger.Components;
-using Content.Shared.Tag;
 
 namespace Content.Shared.StepTrigger.Systems;
 

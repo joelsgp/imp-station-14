@@ -3,9 +3,7 @@ using Content.Client.Light.Components;
 using Content.Shared.Light;
 using Content.Shared.Light.Components;
 using Content.Shared.Toggleable;
-using Robust.Client.Animations;
 using Robust.Client.GameObjects;
-using Robust.Shared.Animations;
 
 namespace Content.Client.Light;
 

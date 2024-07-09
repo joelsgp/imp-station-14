@@ -1,6 +1,4 @@
-﻿using Content.Client.Chemistry.Visualizers;
-
-namespace Content.Client.Storage.Components;
+﻿namespace Content.Client.Storage.Components;
 
 /// <summary>
 ///     Essentially a version of <see cref="SolutionContainerVisualsComponent"/> fill level handling but for item storage.

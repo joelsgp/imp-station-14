@@ -1,5 +1,4 @@
 using Content.Shared.VoiceMask;
-using Robust.Client.GameObjects;
 using Robust.Shared.Prototypes;
 
 namespace Content.Client.VoiceMask;

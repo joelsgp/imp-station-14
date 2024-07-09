@@ -5,7 +5,6 @@ using Content.Shared.Administration;
 using Content.Shared.Database;
 using Content.Shared.Examine;
 using Content.Shared.Hands.Components;
-using Content.Shared.Power;
 using Content.Shared.Power.Components;
 using Content.Shared.Power.EntitySystems;
 using Content.Shared.Verbs;

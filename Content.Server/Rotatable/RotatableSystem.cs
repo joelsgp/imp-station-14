@@ -1,5 +1,4 @@
 using Content.Server.Popups;
-using Content.Shared.Popups;
 using Content.Shared.Rotatable;
 using Content.Shared.Verbs;
 using Robust.Shared.Physics;

@@ -1,6 +1,5 @@
 using Content.Shared.SprayPainter;
 using Content.Shared.SprayPainter.Components;
-using Robust.Client.GameObjects;
 using Robust.Client.UserInterface.Controls;
 
 namespace Content.Client.SprayPainter.UI;

@@ -5,7 +5,6 @@ using Content.Shared.Database;
 using Content.Shared.Gravity;
 using Content.Shared.Interaction;
 using Robust.Server.GameObjects;
-using Robust.Shared.Player;
 
 namespace Content.Server.Gravity
 {

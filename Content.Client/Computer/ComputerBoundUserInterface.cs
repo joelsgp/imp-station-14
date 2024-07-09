@@ -1,4 +1,3 @@
-using Robust.Client.GameObjects;
 using Robust.Client.UserInterface.CustomControls;
 
 namespace Content.Client.Computer

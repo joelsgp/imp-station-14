@@ -1,4 +1,3 @@
-using System.IO.Compression;
 using Content.Client.Administration.Managers;
 using Content.Client.Launcher;
 using Content.Client.MainMenu;
@@ -60,7 +59,7 @@ public sealed class ContentReplayPlaybackManager
     public bool IsScreenshotMode = false;
 
     private bool _initialized;
-    
+
     /// <summary>
     /// Most recently loaded file, for re-attempting the load with error tolerance.
     /// Required because the zip reader auto-disposes and I'm too lazy to change it so that
@@ -114,10 +113,10 @@ public sealed class ContentReplayPlaybackManager
         {
             var button = new Button
             {
-                Text = Loc.GetString("replay-loading-retry"), 
+                Text = Loc.GetString("replay-loading-retry"),
                 StyleClasses = { StyleBase.ButtonCaution }
             };
-            
+
             button.OnPressed += _ =>
             {
                 _cfg.SetCVar(CVars.ReplayIgnoreErrors, true);
@@ -129,7 +128,7 @@ public sealed class ContentReplayPlaybackManager
 
                 _loadMan.LoadAndStartReplay(reader);
             };
-            
+
             box.AddChild(button);
         }
 

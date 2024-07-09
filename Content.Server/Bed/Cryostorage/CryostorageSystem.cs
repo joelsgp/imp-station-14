@@ -1,5 +1,4 @@
 using System.Globalization;
-using System.Linq;
 using Content.Server.Chat.Managers;
 using Content.Server.GameTicking;
 using Content.Server.Hands.Systems;

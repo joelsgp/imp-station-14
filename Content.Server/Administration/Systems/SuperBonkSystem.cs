@@ -1,6 +1,5 @@
 using Content.Server.Administration.Components;
 using Content.Shared.Climbing.Components;
-using Content.Shared.Climbing.Events;
 using Content.Shared.Climbing.Systems;
 using Content.Shared.Interaction.Components;
 using Content.Shared.Mobs;

@@ -8,7 +8,6 @@ using Content.Shared.Hands.EntitySystems;
 using Content.Shared.Physics;
 using Content.Shared.Popups;
 using Content.Shared.Random;
-using Content.Shared.Random.Helpers;
 using Content.Shared.Slippery;
 using Content.Shared.StepTrigger.Components;
 using Robust.Server.GameObjects;

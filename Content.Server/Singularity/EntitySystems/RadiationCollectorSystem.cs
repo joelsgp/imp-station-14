@@ -1,6 +1,5 @@
 using System.Diagnostics.CodeAnalysis;
 using System.Linq;
-using Content.Server.Atmos;
 using Content.Server.Atmos.Components;
 using Content.Server.Popups;
 using Content.Server.Power.Components;

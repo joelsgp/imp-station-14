@@ -1,6 +1,5 @@
 ﻿using Content.Shared.MedicalScanner;
 using JetBrains.Annotations;
-using Robust.Client.GameObjects;
 
 namespace Content.Client.HealthAnalyzer.UI
 {

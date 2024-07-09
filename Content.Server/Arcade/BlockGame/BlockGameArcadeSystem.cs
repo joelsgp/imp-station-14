@@ -4,7 +4,6 @@ using Content.Server.Advertise;
 using Content.Server.Advertise.Components;
 using Content.Shared.Arcade;
 using Robust.Server.GameObjects;
-using Robust.Shared.Player;
 
 namespace Content.Server.Arcade.BlockGame;
 

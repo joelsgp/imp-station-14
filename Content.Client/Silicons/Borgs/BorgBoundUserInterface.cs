@@ -1,6 +1,5 @@
 using Content.Shared.Silicons.Borgs;
 using JetBrains.Annotations;
-using Robust.Client.GameObjects;
 
 namespace Content.Client.Silicons.Borgs;
 

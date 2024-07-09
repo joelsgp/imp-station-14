@@ -1,5 +1,4 @@
 ﻿using System.Text.RegularExpressions;
-using Robust.Client.GameObjects;
 using static Content.Shared.Configurable.ConfigurationComponent;
 
 namespace Content.Client.Configurable.UI

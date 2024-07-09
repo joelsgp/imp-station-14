@@ -2,7 +2,6 @@ using Content.Shared.Physics;
 using Robust.Client.GameObjects;
 using Robust.Client.Graphics;
 using Robust.Shared.Enums;
-using Robust.Shared.Physics;
 using Robust.Shared.Physics.Dynamics.Joints;
 
 namespace Content.Client.Physics;

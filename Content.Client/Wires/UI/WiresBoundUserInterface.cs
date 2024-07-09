@@ -1,5 +1,4 @@
 using Content.Shared.Wires;
-using Robust.Client.GameObjects;
 
 namespace Content.Client.Wires.UI
 {

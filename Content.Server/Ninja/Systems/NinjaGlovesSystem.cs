@@ -1,5 +1,4 @@
 using Content.Server.Communications;
-using Content.Server.Mind;
 using Content.Server.Ninja.Events;
 using Content.Server.Objectives.Systems;
 using Content.Shared.Communications;

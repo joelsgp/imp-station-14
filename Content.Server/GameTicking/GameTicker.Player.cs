@@ -1,4 +1,3 @@
-using System.Linq;
 using Content.Server.Database;
 using Content.Shared.Administration;
 using Content.Shared.CCVar;

@@ -1,7 +1,4 @@
-﻿using Robust.Client.GameObjects;
-using Robust.Shared.GameObjects;
-using Robust.Shared.ViewVariables;
-using static Content.Shared.Arcade.SharedSpaceVillainArcadeComponent;
+﻿using static Content.Shared.Arcade.SharedSpaceVillainArcadeComponent;
 
 namespace Content.Client.Arcade.UI;
 

@@ -1,7 +1,5 @@
-﻿using Content.Shared.Clothing;
-using Content.Shared.Clothing.Components;
+﻿using Content.Shared.Clothing.Components;
 using Content.Shared.Movement.Components;
-using Content.Shared.Inventory.Events;
 
 namespace Content.Shared.Clothing.EntitySystems;
 

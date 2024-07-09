@@ -6,7 +6,6 @@ using Content.Shared.Destructible;
 using Content.Server.Atmos.Piping.Components;
 using Content.Server.Atmos.EntitySystems;
 using Content.Server.Power.Components;
-using Content.Server.NodeContainer;
 using Robust.Server.GameObjects;
 using Content.Server.NodeContainer.Nodes;
 using Content.Server.NodeContainer.NodeGroups;

@@ -1,6 +1,5 @@
 using Content.Shared.Actions;
 using Content.Shared.Interaction;
-using Content.Shared.Polymorph;
 using Content.Shared.Polymorph.Components;
 using Content.Shared.Popups;
 using Robust.Shared.Serialization.Manager;

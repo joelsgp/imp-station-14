@@ -1,13 +1,8 @@
-using Content.Shared.DoAfter;
 using Content.Shared.Ninja.Systems;
-using Content.Shared.Toggleable;
 using Content.Shared.Whitelist;
-using Robust.Shared.Audio;
 using Robust.Shared.GameStates;
 using Robust.Shared.Prototypes;
-using Robust.Shared.Serialization;
 using Robust.Shared.Serialization.TypeSerializers.Implementations.Custom.Prototype;
-using Robust.Shared.Utility;
 
 namespace Content.Shared.Ninja.Components;
 

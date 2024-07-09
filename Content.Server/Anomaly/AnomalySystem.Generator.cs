@@ -11,9 +11,6 @@ using Content.Shared.Physics;
 using Robust.Shared.Map.Components;
 using Robust.Shared.Physics;
 using Robust.Shared.Physics.Components;
-using Robust.Shared.Map;
-using System.Numerics;
-using Robust.Server.GameObjects;
 
 namespace Content.Server.Anomaly;
 

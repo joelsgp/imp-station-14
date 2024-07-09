@@ -1,7 +1,6 @@
 ﻿using Content.Client.Clothing.Systems;
 using Content.Shared.Clothing.Components;
 using JetBrains.Annotations;
-using Robust.Client.GameObjects;
 
 namespace Content.Client.Clothing.UI;
 

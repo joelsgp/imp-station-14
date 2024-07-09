@@ -11,7 +11,6 @@ using Robust.Client.UserInterface.Controls;
 using Robust.Client.UserInterface.CustomControls;
 using Robust.Client.UserInterface.XAML;
 using Robust.Client.ResourceManagement;
-using Robust.Client.Graphics;
 using Robust.Shared.Prototypes;
 
 namespace Content.Client.Lathe.UI;

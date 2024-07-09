@@ -1,5 +1,4 @@
 ﻿using JetBrains.Annotations;
-using Robust.Client.GameObjects;
 using static Content.Shared.Disposal.Components.SharedDisposalRouterComponent;
 
 namespace Content.Client.Disposal.UI

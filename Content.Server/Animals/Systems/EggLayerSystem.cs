@@ -7,14 +7,13 @@ using Content.Shared.Nutrition.Components;
 using Content.Shared.Nutrition.EntitySystems;
 using Content.Shared.Storage;
 using Robust.Server.Audio;
-using Robust.Server.GameObjects;
 using Robust.Shared.Player;
 using Robust.Shared.Random;
 
 namespace Content.Server.Animals.Systems;
 
 /// <summary>
-///     Gives ability to produce eggs, produces endless if the 
+///     Gives ability to produce eggs, produces endless if the
 ///     owner has no HungerComponent
 /// </summary>
 public sealed class EggLayerSystem : EntitySystem
