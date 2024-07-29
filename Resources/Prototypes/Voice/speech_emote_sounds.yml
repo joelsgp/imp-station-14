@@ -38,6 +38,8 @@
       collection: MaleGasp
     DefaultDeathgasp:
       collection: MaleDeathGasp
+    Shaun:
+      collection: Shauns
 
 - type: emoteSounds
   id: FemaleHuman
